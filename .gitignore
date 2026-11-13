@@ -1,0 +1,5 @@
+vivado/
+*.log
+*.jou
+*.str
+*.wdb
