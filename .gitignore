@@ -1,5 +1,9 @@
-vivado/
-*.log
+vivado/*
+!vivado/*.xpr
+
+.Xil/
 *.jou
+*.log
 *.str
+*.pb
 *.wdb
