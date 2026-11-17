@@ -1,5 +1,4 @@
-vivado/*
-!vivado/*.xpr
+vivado/
 
 .Xil/
 *.jou
